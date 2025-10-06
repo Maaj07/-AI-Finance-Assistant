@@ -1,4 +1,3 @@
-# -AI-Finance-Assistant
 # AI Finance Assistant
 
 An AI-powered personal finance assistant that provides personalized financial insights through natural language conversations. Built with Flask and Python.
